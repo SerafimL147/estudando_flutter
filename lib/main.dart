@@ -6,11 +6,11 @@ void main() {
   runApp(
     MaterialApp(
       home: Scaffold(
-        backgroundColor: Color.fromARGB(66, 56, 49, 49),
+        backgroundColor: Color.fromARGB(66, 116, 109, 109),
         appBar: AppBar(
           backgroundColor: Color.fromARGB(255, 83, 22, 42),
           title: Center(
-            child: Text('Eu Sou Rico'),
+            child: Text('Eu Ou'),
           ),
         ),
         body: Center(
