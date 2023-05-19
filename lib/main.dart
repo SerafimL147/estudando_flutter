@@ -10,7 +10,7 @@ void main() {
         appBar: AppBar(
           backgroundColor: Color.fromARGB(255, 83, 22, 42),
           title: Center(
-            child: Text('Eu Ou'),
+            child: Text('Eu Sou Rico'),
           ),
         ),
         body: Center(
